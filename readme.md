@@ -36,7 +36,7 @@ I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zi
 #### Top languages this week
 <!--START_SECTION:waka-->
 ```text
-Markdown   5 mins          █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
