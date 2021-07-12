@@ -9,12 +9,13 @@ I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zi
 
 - 👨‍💻I'm currently working on...
     - **CATnet**, a more decentralised web for a modern age
-    - **PassMan**, a RSA encrypted, fully-featured password manager
+    - **ZincPass**, a RSA encrypted, fully-featured password manager
     - **3301**, [43 49 43 41 44 41 0d 0a](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
     - Projects that I have put to the side for now but intend to get back to some day inclide **IVANN** and **MathKit**
 - 🌱 I'm currently learning...
     - about Google Portocol Buffers
     - LibSodium
+    - How to use the [Nolhmann JSON C++ library](https://github.com/nlohmann/json)
     - how to deal with a computer that is so broken, it thinks it has an AMD cpu despite being intel (AMD is still better though)
 - 💬 Ask me about...
     - space, physics, science, marvel, pop culture, star wars, anything that could be considered nerdy :D
