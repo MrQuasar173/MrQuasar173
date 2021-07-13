@@ -41,5 +41,5 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-*note: this readme was created less than a week ago, and these stats won't show up untill it has been a week*
+
 
