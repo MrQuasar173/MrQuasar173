@@ -41,5 +41,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+[![MrQuasar173's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrQuasar173)](https://github.com/anuraghazra/github-readme-stats)
 
 
