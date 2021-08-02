@@ -14,7 +14,7 @@ I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zi
     - Projects that I have put to the side for now but intend to get back to some day inclide **IVANN** and **MathKit**
 - 🌱 I'm currently learning...
     - about Google Portocol Buffers
-    - LibSodium
+    - the Rust language
     - How to use the [Nolhmann JSON C++ library](https://github.com/nlohmann/json)
     - how to deal with a computer that is so broken, it thinks it has an AMD cpu despite being intel (AMD is still better though)
 - 💬 Ask me about...
