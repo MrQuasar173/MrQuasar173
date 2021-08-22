@@ -25,7 +25,7 @@ I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zi
 - 😀 Pronouns: He/Him/His
 - ⚡ Fun Fact:
     - I support free and open source software
-    - As of June 27, 2021, my profile has been visited this many times: ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrquasar173.mrquasar173)
+    - As of June 27, 2021, my profile has been visited this many times: ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrquasar173.mrquasar173) *note: there is some flaw with the API that generated this number because it is obviously false, there is no way that many people have visited*
 
 
 #### Top Technologies
