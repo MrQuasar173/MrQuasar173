@@ -16,7 +16,7 @@ I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zi
 - 🌱 I'm currently learning...
     - about Google Portocol Buffers
     - the Rust language
-    - Open GL because I was foolish enough to join a game jam when all I do is backend stuff.
+    - SDL because I was foolish enough to join a game jam when all I do is backend stuff. (OpenGL will take too long to learn and I will never use it again anyway)
     - How to use the [Nolhmann JSON C++ library](https://github.com/nlohmann/json)
     - how to deal with a computer that is so broken, it thinks it has an AMD cpu despite being intel (AMD is still better though)
 - 💬 Ask me about...
