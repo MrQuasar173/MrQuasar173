@@ -38,6 +38,10 @@ I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zi
 
 #### Top languages this week
 
-[![MrQuasar173's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrQuasar173&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MrQuasar173&show_icons=true&count_private=true&theme=tokyonight">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrQuasar173&layout=compact&theme=tokyonight">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=tokyonight&username=MrQuasar173">
+</p>
 
