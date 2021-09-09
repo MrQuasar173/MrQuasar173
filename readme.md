@@ -37,9 +37,9 @@ I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zi
 #### Programming stats
 
 <p align="center">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MrQuasar173&show_icons=true&count_private=true&theme=tokyonight">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrQuasar173&layout=compact&theme=tokyonight">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MrQuasar173&show_icons=true&count_private=true&theme=material-palenight">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrQuasar173&layout=compact&theme=material-palenight&langs_count=10">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=tokyonight&username=MrQuasar173">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=material-palenight&username=MrQuasar173">
 </p>
 
