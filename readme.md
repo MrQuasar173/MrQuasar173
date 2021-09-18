@@ -38,6 +38,6 @@ I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zi
 
 <p align="center">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MrQuasar173&show_icons=true&count_private=true&theme=material-palenight">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrQuasar173&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=MrQuasar173&theme=material-palenight&hide_border=true"
 </p>
 
