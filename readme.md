@@ -34,7 +34,7 @@ I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zi
 
 
 #### Github Stats
-
+note: these cards are super jank and show my commits from this year in addition to those from last year
 <p align="center">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MrQuasar173&show_icons=true&count_private=true&theme=material-palenight">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=MrQuasar173&theme=material-palenight&hide_border=true"
