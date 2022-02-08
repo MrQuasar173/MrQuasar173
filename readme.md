@@ -15,13 +15,12 @@ I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zi
     - Projects that I have put to the side for now but intend to get back to some day inclide **IVANN** and **MathKit**
 - 🌱 I'm currently learning...
     - about Google Portocol Buffers
-    - the Rust language
     - SDL because I was foolish enough to join a game jam when all I do is backend stuff. (OpenGL will take too long to learn and I will never use it again anyway)
     - How to use the [Nolhmann JSON C++ library](https://github.com/nlohmann/json)
-    - how to deal with a computer that is so broken, it thinks it has an AMD cpu despite being intel (AMD is still better though)
 - 💬 Ask me about...
     - space, physics, science, marvel, pop culture, star wars, anything that could be considered nerdy :D
     - ZincSoft and CATnet
+    - How long it took for my new GPU to arrive (hint: over a year)
     - Anything!
 - 😀 Pronouns: He/Him/His
 - ⚡ Fun Fact:
