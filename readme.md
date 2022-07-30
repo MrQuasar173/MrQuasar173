@@ -1,8 +1,8 @@
 ## Hi I'm Eli <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zincsoft.dev). I was also a Regeneron ISEF 2022 finalist and my team got 4th in engineering. I enjoy programming (*of course*), running ([Eli Hatton](strava.com) on Strava), video games, reading, and movies. I also find math, physics, and finance very interesting. I am self-taught, and codecademy.com helped a lot with my learning. 
+I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zincsoft.dev). I was also a Regeneron ISEF 2022 finalist and my team got 4th in engineering. I enjoy programming (*of course*), running ([Eli Hatton](strava.com) on Strava), video games, reading, policy debate (although thb Ks are best), and movies. I also find math, physics, and hating capitalism very interesting.
 
-:mailbox: Contact me!
+:mailbox: Contact
 
 [![Mail Badge](https://img.shields.io/badge/-elihatton@zincsoft.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elihatton@zincsoft.dev)
 *more social links comming soon*
@@ -13,19 +13,14 @@ I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zi
     - **DevStart**, a tool for developers to automatically set up porjects and prepare them for a productive workflow with a single command
     - **3301**, [43 49 43 41 44 41 0d 0a](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
     - Projects that I have put to the side for now but intend to get back to some day inclide **IVANN** and **MathKit**
-- 🌱 I'm currently learning...
-    - about Google Portocol Buffers
-    - SDL because I was foolish enough to join a game jam when all I do is backend stuff. (OpenGL will take too long to learn and I will never use it again anyway)
-    - How to use the [Nolhmann JSON C++ library](https://github.com/nlohmann/json)
-- 💬 Ask me about...
-    - space, physics, science, marvel, pop culture, star wars, anything that could be considered nerdy :D
-    - ZincSoft and CATnet
-    - How long it took for my new GPU to arrive (hint: over a year)
-    - ISEF
-    - Anything!
-- 😀 Pronouns: He/Him/His
-- ⚡ Fun Fact:
-    - I support free and open source software
+
+- 🤯 other stuff 
+    - FOSS is based
+    - Vim > Emacs
+    - Rust is super cool, you should learn it
+    - L + Ratio + u fell off + bozo + cringe 
+    - I met Jerry Sussman once
+    - Stan pingu
     - As of June 27, 2021, my profile has been visited this many times: ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrquasar173.mrquasar173) *note: there is some flaw with the API that generated this number because it is obviously false, there is no way that many people have visited*
 
 
