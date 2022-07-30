@@ -1,6 +1,6 @@
 ## Hi I'm Eli <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Eli Hatton, a student developer and the co-founder/co owner of [ZincSoft](zincsoft.dev). I was also a Regeneron ISEF 2022 finalist and my team got 4th in engineering. I enjoy programming (*of course*), running ([Eli Hatton](strava.com) on Strava), video games, reading, policy debate (although thb Ks are best), and movies. I also find math, physics, and hating capitalism very interesting.
+I'm Eli Hatton, a student developer and the co-founder of [ZincSoft](zincsoft.dev). I was a Regeneron ISEF 2022 finalist and my team got 4th in engineering. I enjoy programming (*of course*), running ([Eli Hatton](strava.com) on Strava), video games, reading, policy debate (although tbh Ks are best), and movies. I like physics and science and stuff, and I do not think capitalism is very based
 
 :mailbox: Contact
 
